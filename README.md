@@ -1,4 +1,4 @@
-A simple Socket program written in python to simulate a chatroom. Here, a user can join the room using an Auhtnetication password. 
+A Simple Socket program written in python to simulate a chatroom. Here, a user can join the room using an Authnetication password.
 
 Further, the user has the freedom to choose their username and all other users are notified about the joining of that user into the chatroom. No 2 users can have the same username.
 
